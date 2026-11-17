@@ -28,7 +28,7 @@ A secure, role-based full-stack web application that enables students to browse 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/i-esegbue/Fullstack-hospital-internship-management-portal.git
    ```
 2. Move the project folder into your local PHP server directory (e.g., `htdocs` for XAMPP or `www` for WAMP).
 3. Start your Apache and MySQL services in your local server control panel.
